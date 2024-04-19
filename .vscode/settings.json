@@ -1,0 +1,17 @@
+{
+    "idf.portWin": "COM3",
+    "idf.adapterTargetName": "esp32c6",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-bridge.cfg"
+    ],
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_rmaker_standard_devices.h": "c",
+        "mpu6050.h": "c",
+        "app_priv.h": "c",
+        "timers.h": "c",
+        "esp_rmaker_standard_types.h": "c",
+        "esp_rmaker_standard_params.h": "c",
+        "esp_log.h": "c"
+    }
+}
